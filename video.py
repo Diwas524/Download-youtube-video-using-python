@@ -1,7 +1,7 @@
 import pafy
 
 #enter the url of the video you want to download
-url="https://www.youtube.com/watch?v=mkKXS0FI_L4"    # link of video url you want to download
+url="https://www.youtube.com/watch?v=ozTvBsrf1as"    # link of video url you want to download
 video=pafy.new(url)
 
 
